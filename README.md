@@ -4,17 +4,18 @@
 This is a project dedicated to demonstrating various features and capabilities built with ❤️.
 
 ## Features
-- Feature 1
-- Feature 2
+- Deep learning model training
+- Data augmentation techniques
 
 ## Technology Stack
-- Technology 1
-- Technology 2
+- Python
+- TensorFlow
+- Keras
 
 ## Usage
-1. Step 1
-2. Step 2
+1. Clone the repository.
+2. Run the training script.
 
 ## Future Plans
-- Plan 1
-- Plan 2
+- Experiment with different architectures
+- Optimize training processes
